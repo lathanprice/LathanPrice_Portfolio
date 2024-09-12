@@ -45,5 +45,12 @@ section {
 .about, .projects, .contact, .education {
     max-width: 800px;
     margin: 0 auto;
-    
+}
+
+.projects {
+    margin-bottom: 1rem;
+}
+
+.project {
+    margin-bottom: 2rem;
 }
